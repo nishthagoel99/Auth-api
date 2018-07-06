@@ -1,0 +1,6 @@
+{
+    "env":{
+        "JWT_ADMINKEY":"secretkey",
+        "JWT_USERKEY":"publickey"
+    }
+}
